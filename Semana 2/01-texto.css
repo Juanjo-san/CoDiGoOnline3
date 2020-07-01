@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;700&display=swap');body {
+    background: #444;
+    color: white
+}
+@font-face {
+    font-family: "harry" ;
+src: url(./HARRYP__.TTF)
+}
+.titulo{
+    font-family: Rubik, sans-serif;
+    font-way: 700
+}
+
+.tituloh2 {
+    font-family: Rubik, sans-serif;
+    font-weight: 300;
+}
+
+.parrafo1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+}
+.fuenteharry{
+    font-family: harry;
+}
+.subrayado{
+    
+}
